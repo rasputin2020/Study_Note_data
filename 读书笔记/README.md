@@ -14,6 +14,7 @@
 ## 2.文学
 | item|name|Notionality|category|add time| 出版社-译者 | blog|  
 | :- | :-------| :------ | :-----  | :----- |:-----| :---------|
-| 1 | _Mike_  |法国|诗歌  |  ? |？ | [Mike](link) |    
+| 1 | _《孤独与沉思》_  |法国|诗歌  |  1/19/2022|[图片](https://user-images.githubusercontent.com/84896436/151691076-ff97936c-23fc-4892-a08c-3f7b00165764.png)
+ |胡小跃-漓江 | [孤独与沉思](https://github.com/rasputin2020/Study_Note_data/blob/f79c262a2b0f18faf902151991ffbc15a42a4e64/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E6%96%87%E5%AD%A6/%E8%AF%97%E6%AD%8C/%E5%AD%A4%E7%8B%AC%E4%B8%8E%E6%B2%89%E6%80%9D-%E6%99%AE%E5%90%95%E5%A4%9A%E5%A7%86-%E6%B3%95%E5%9B%BD.md) |    
 | 2 | _Mike_  |古希腊|散文   |  ? |？  | [Mike](link)  |    
 | 3 | _Mike_  |古希腊|散文  |  ? |？ | [Mike](link)    | 
