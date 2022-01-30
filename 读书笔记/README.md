@@ -15,5 +15,5 @@
 | item|name|Notionality|category|add time| 出版社-译者 | blog|  
 | :- | :-------| :------ | :-----  | :----- |:-----| :---------|
 | 1 | _《孤独与沉思》_  |法国|诗歌  |  1/19/2022|胡小跃-漓江 | [《孤独与沉思-普吕多姆-法国》](https://github.com/rasputin2020/Study_Note_data/blob/f79c262a2b0f18faf902151991ffbc15a42a4e64/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E6%96%87%E5%AD%A6/%E8%AF%97%E6%AD%8C/%E5%AD%A4%E7%8B%AC%E4%B8%8E%E6%B2%89%E6%80%9D-%E6%99%AE%E5%90%95%E5%A4%9A%E5%A7%86-%E6%B3%95%E5%9B%BD.md) |   
-| 2 | _《我将敢于亲吻你》_|阿根廷|诗歌   |1/26/2022 |汪天艾-译林  | [《我将敢于亲吻你-阿方斯娜·斯托尔妮-阿根廷》](link)  |    
+| 2 | _《我将敢于亲吻你》_|阿根廷|诗歌   |1/26/2022 |汪天艾-译林  | [《我将敢于亲吻你-阿方斯娜·斯托尔妮-阿根廷》](https://github.com/rasputin2020/Study_Note_data/blob/199e92bf99d1a2910d19cdc188e78dceb2e4308d/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E6%96%87%E5%AD%A6/%E8%AF%97%E6%AD%8C/%E6%88%91%E5%B0%86%E6%95%A2%E4%BA%8E%E4%BA%B2%E5%90%BB%E4%BD%A0-%E9%98%BF%E6%96%B9%E6%96%AF%E5%A8%9C%C2%B7%E6%96%AF%E6%89%98%E5%B0%94%E5%A6%AE-%E9%98%BF%E6%A0%B9%E5%BB%B7.md)|    
 | 3 | _Mike_  |古希腊|散文  |  ? |？ | [Mike](link)    | 
