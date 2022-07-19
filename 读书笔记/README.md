@@ -35,4 +35,4 @@
 ## 3.哲学
 | item|name|Notionality|category|add time| 出版社-译者 | blog|  
 | :- | :-------| :---------- | :---------  | :--------- |:-----| :-------------|
-| 1 | _《当下的哲学》_  |法国|哲学  |  7/16/2022|吴冠军-中央编译 | [《20220716当下的哲学》]（https://github.com/rasputin2020/Study_Note_data/blob/609b60f6aab0dc9954434c25e7b4a06187d2e5d1/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E5%93%B2%E5%AD%A6/20220716%E5%BD%93%E4%B8%8B%E7%9A%84%E5%93%B2%E5%AD%A6.md)|
+| 1 | _《当下的哲学》_  |法国|哲学  |  7/16/2022|吴冠军-中央编译 |[《20220716当下的哲学》](https://github.com/rasputin2020/Study_Note_data/blob/609b60f6aab0dc9954434c25e7b4a06187d2e5d1/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E5%93%B2%E5%AD%A6/20220716%E5%BD%93%E4%B8%8B%E7%9A%84%E5%93%B2%E5%AD%A6.md) |
